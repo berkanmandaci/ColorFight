@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8450658f-3e3f-4a8d-a52e-136ae4e9bd34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Kodlar/Network.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kodlar/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kodlar/yenidenoyna.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kodlar/playerfail.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kodlar/DirekKontrol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kodlar/OyunKontrol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Kodlar/PlayerKontrol.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Kodlar/OyunKontrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kodlar/Network.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kodlar/playerredfail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kodlar/PlayerKontrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kodlar/Playerredfail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kodlar/PlayerFail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kodlar/Trigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kodlar/playerfail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Kodlar/DirekKontrol.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WJmrNfnDdF8W4hiDBMDoe2erBB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8450658f-3e3f-4a8d-a52e-136ae4e9bd34" name="Default Changelist" comment="" />
+      <created>1578876271277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578876271277</updated>
+      <workItem from="1578876278798" duration="539000" />
+      <workItem from="1578925196071" duration="84000" />
+      <workItem from="1578926068217" duration="312000" />
+      <workItem from="1578926530634" duration="13000" />
+      <workItem from="1578926571503" duration="926000" />
+      <workItem from="1578961211779" duration="77000" />
+      <workItem from="1579078501731" duration="1394000" />
+      <workItem from="1600785299158" duration="12000" />
+      <workItem from="1600785395732" duration="6000" />
+      <workItem from="1600785468258" duration="1000" />
+      <workItem from="1600785520197" duration="28000" />
+      <workItem from="1600790020252" duration="1565000" />
+      <workItem from="1600791804631" duration="73000" />
+      <workItem from="1600792150961" duration="561000" />
+      <workItem from="1600802697470" duration="1999000" />
+      <workItem from="1600813770238" duration="432000" />
+      <workItem from="1600814249366" duration="168000" />
+      <workItem from="1600814578274" duration="1885000" />
+      <workItem from="1600818002713" duration="1572000" />
+      <workItem from="1600902253581" duration="1905000" />
+      <workItem from="1600904191281" duration="1013000" />
+      <workItem from="1600905249243" duration="269000" />
+      <workItem from="1600906016544" duration="1516000" />
+      <workItem from="1600907716429" duration="174000" />
+      <workItem from="1600908030997" duration="420000" />
+      <workItem from="1600908548036" duration="367000" />
+      <workItem from="1600952755110" duration="33000" />
+      <workItem from="1600953192224" duration="232000" />
+      <workItem from="1600953950768" duration="941000" />
+      <workItem from="1600955145699" duration="579000" />
+      <workItem from="1610211107281" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1578928845973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845973" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.3.bottom" timestamp="1578928845975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845975" />
+    <state width="1877" height="347" key="GridCell.Tab.3.center" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.3.left" timestamp="1578928845974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845974" />
+    <state width="1877" height="347" key="GridCell.Tab.3.right" timestamp="1578928845975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578928845975" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1578926220017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1578926220017" />
+  </component>
+</project>
